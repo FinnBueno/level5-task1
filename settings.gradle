@@ -1,0 +1,2 @@
+rootProject.name='task5level1'
+include ':app'
